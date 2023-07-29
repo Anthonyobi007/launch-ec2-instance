@@ -1,1 +1,1 @@
-# launch-lightsail-terafoam
+# launch-lightsail-instance
