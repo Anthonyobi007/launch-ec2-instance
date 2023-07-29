@@ -1,1 +1,1 @@
-# launch-ec2-instance
+# launch-lightsail-terafoam
